@@ -1,0 +1,9 @@
+name: KeepMyPersonalTeam
+options:
+    bundleIdPrefix: su.kornerr
+targets:
+    KeepMyPersonalTeam:
+        type: application
+        platform: iOS
+        deploymentTarget: "9.0"
+        sources: [src]
